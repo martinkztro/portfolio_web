@@ -282,7 +282,7 @@ a {
 }
 @media (min-width: 768px) {
     #projects {
-        margin: 10rem auto;
+        margin: 40rem auto;
         height: 50rem;
     }
 
