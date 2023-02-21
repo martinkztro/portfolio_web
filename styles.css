@@ -267,7 +267,7 @@ a {
     cursor: pointer;
 }
 .java:hover {
-    color: blue;
+    color: var(--blue-light);
     cursor: pointer;
 }
 .c:hover {
