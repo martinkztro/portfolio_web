@@ -266,6 +266,14 @@ a {
     color: var(--pink);
     cursor: pointer;
 }
+.java:hover {
+    color: blue;
+    cursor: pointer;
+}
+.c:hover {
+    color: var(--blue-light);
+    cursor: pointer;
+}
 
 
 /** PROJECTS SECTION **/
