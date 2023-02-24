@@ -254,6 +254,10 @@ a {
     color: goldenrod;
     cursor: pointer;
 }
+.sass:hover {
+    color: pink;
+    cursor: pointer;
+}
 .fi:hover {
     color: pink;
     cursor: pointer;
